@@ -1,0 +1,77 @@
+.navbar-nav{
+    padding-left: 73%;
+    margin-right: 0%;
+}
+.homeHeading{
+    padding-top: 5%;
+    text-align: center;
+   
+}
+.homeParagraph{
+    padding-top: 3%;
+    text-align: center;
+    font-weight: bold;
+}
+.inputBox{
+    margin-right: 0%;
+    border-radius: 25px;
+    border: 2px solid #66d6f8;
+    box-shadow: 0 0 10px #43b7fa;
+padding-top: 2%;
+padding-bottom: 3%;
+margin-top: 8%;
+    width: 90%;
+    margin-left: 5%;
+}
+.first-container{
+    background-image: url("/images/backgroundImage.jpg");
+
+background-repeat: no-repeat;
+background-size: cover;
+}
+.white-background{
+background:rgba(255, 255, 255, 0.589);
+padding-bottom: 48%;
+}
+.h1Findings{
+    padding-top: 5%;
+text-align: center;
+}
+.second-question{
+    text-align: center;
+    padding-top: 7%;
+}
+.third-question{
+    text-align: center;
+    padding-top: 5%;
+}
+.second-paragraph{
+    text-align: center;
+    padding-left:10% ;
+    padding-right:10% ;
+    font-weight: bold;
+}
+.fourth-question{
+  padding-top: 5%;
+  text-align: center;
+}
+.third-paragraph{
+text-align: center;
+padding-left:10% ;
+padding-right: 10%;
+font-weight: bold;
+}
+.lists{
+    padding-top: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-weight: bold;
+    line-height: 1.5;
+}
+.footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
